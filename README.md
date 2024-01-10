@@ -4,6 +4,9 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
+1. Run node
+2. Run scripts and see the logs
+
 ```shell
 npx hardhat help
 npx hardhat test
